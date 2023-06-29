@@ -42,7 +42,7 @@ Unless the number of produced vehicles is ***under 2000 units a year***, digits 
 
 ## ❓ 🧠 Why make this? :brain: ❓
 
-Well, ~~fuck you, that's why~~ the Flipper Zero happens to be a ***pretty decently sized and capable*** device that **MANY** mafuckas have as a part of their EDC (me included). Something this small and discreet can easily be used to stealthily or conveniently, depending on the assignment/use, **decode and save decoded VIN numbers**, amongst other things. Since decoding a VIN isn't necessarily *too* hard, but most services out there are **online only** or **require a smart phone** to use. Having something local and **guaranteed** not to log anything (unless you ***choose to save a decoded VIN!***) is an interesting take on the whole VIN decoding thing.
+Well, ~~fuck you, that's why~~ the Flipper Zero happens to be a ***pretty decently sized and capable*** device that **MANY** mafuckas have as a part of their EDC (me included). Something this small and discreet can easily be used to stealthily or conveniently, depending on the assignment/use, **decode and save decoded VIN numbers**, amongst other things. Since decoding a VIN isn't necessarily *too* hard, but most services out there are **online only** or **require a smart phone** to use, having something local and **guaranteed** not to log anything (unless you ***choose to save a decoded VIN!***) is an interesting take on the whole VIN decoding thing.
 
 ## 📖 👀 Sources + Additional Goodies :eyes: :book:
 
